@@ -84,21 +84,16 @@ This project presents an interactive **Customer Insights & Business Recommendati
 Customer-Insights-PowerBI-Dashboard/
 │
 ├── Data/
-│   └── customer_insights_cleaned_96000_rows.csv
+│   └── week2dataset.csv
 │
 ├── Dashboard/
-│   └── Customer_Insights_Dashboard.pbix
+│   └── week2readynest.pbix
 │
 ├── Images/
-│   └── Dashboard_Overview.png
+│   └── 1,2,3 and Business Insights and recommendations.png
 │
 ├── README.md
-└── LICENSE
 ```
-
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here after uploading it.)
 
 ## 👨‍💻 Author
 
